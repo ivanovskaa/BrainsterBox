@@ -1,8 +1,8 @@
 {
   "name": "ai_finalproject_2019",
   "version": "0.1.0",
-  "private": true,
-  "homepage" : "http://myname.github.io/myapp",
+  "homepage": "https://ivanovskaa.github.io/BrainsterBox/",
+  "private": false,
   "dependencies": {
     "bootstrap": "^4.3.1",
     "google-maps-react": "^2.0.2",
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
