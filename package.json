@@ -2,13 +2,24 @@
   "name": "ai_finalproject_2019",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://myname.github.io/myapp",
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "google-maps-react": "^2.0.2",
     "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.9",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-responsive": "^7.0.0",
+    "react-router-dom": "^5.0.1",
+    "react-router-native": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-scroll-up-button": "^1.6.4",
+    "unirest": "^0.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
