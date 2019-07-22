@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4d3b50b8af4c3a21402d50a38249f55",
+    "revision": "c969fb7e55c592e9870e988b48f3d2e2",
     "url": "/BrainsterBox/index.html"
   },
   {
-    "revision": "bec2bd6c55c7c6a78491",
+    "revision": "865b7f0f73d90cf064f0",
     "url": "/BrainsterBox/static/css/main.9239040b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BrainsterBox/static/js/2.baf4b151.chunk.js"
   },
   {
-    "revision": "bec2bd6c55c7c6a78491",
-    "url": "/BrainsterBox/static/js/main.01d75723.chunk.js"
+    "revision": "865b7f0f73d90cf064f0",
+    "url": "/BrainsterBox/static/js/main.5fa4245c.chunk.js"
   },
   {
     "revision": "cc6679132648dda4f6bc",
