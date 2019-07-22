@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BrainsterBox/static/css/main.9239040b.chunk.css",
+    "main.js": "/BrainsterBox/static/js/main.fca3db43.chunk.js",
+    "main.js.map": "/BrainsterBox/static/js/main.fca3db43.chunk.js.map",
+    "runtime~main.js": "/BrainsterBox/static/js/runtime~main.8e6b4d05.js",
+    "runtime~main.js.map": "/BrainsterBox/static/js/runtime~main.8e6b4d05.js.map",
+    "static/js/2.baf4b151.chunk.js": "/BrainsterBox/static/js/2.baf4b151.chunk.js",
+    "static/js/2.baf4b151.chunk.js.map": "/BrainsterBox/static/js/2.baf4b151.chunk.js.map",
+    "index.html": "/BrainsterBox/index.html",
+    "precache-manifest.f61b472874a4d17bb54ff68079eff12b.js": "/BrainsterBox/precache-manifest.f61b472874a4d17bb54ff68079eff12b.js",
+    "service-worker.js": "/BrainsterBox/service-worker.js",
+    "static/css/main.9239040b.chunk.css.map": "/BrainsterBox/static/css/main.9239040b.chunk.css.map",
+    "static/media/Map.jpg": "/BrainsterBox/static/media/Map.0f4ef4f1.jpg",
+    "static/media/logo.png": "/BrainsterBox/static/media/logo.dcd37274.png"
+  }
+}
